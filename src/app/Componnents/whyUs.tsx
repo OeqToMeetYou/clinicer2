@@ -8,18 +8,18 @@ const features = [
   },
   {
     icon: Stethoscope,
-    title: 'Deneyimli Personel',
-    description: 'Yıllarca Deneyimi olan Diş Hekimleri',
+    title: 'Deneyimli Hekimler',
+    description: 'Yıllarca Deneyimi olan Diş Hekimleri.',
   },
   {
     icon: Clock,
-    title: 'Flexible Hours',
-    description: 'Extended operating hours to accommodate your busy schedule',
+    title: 'Hızlı Hizmet',
+    description: 'Size en müsait zamanda.',
   },
   {
     icon: Award,
-    title: 'Top Rated',
-    description: 'Consistently rated 5-stars by our satisfied patients',
+    title: 'En iyi',
+    description: "Isparta'nın en iyi Diş Kliniği.",
   },
 ];
 
